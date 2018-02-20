@@ -1,0 +1,47 @@
+.head {
+    background-color: blueviolet;
+    text-align: center;
+    
+}
+
+body {
+    background-color: aqua;
+  
+}
+
+.bodycontent{
+    text-align: center;
+    
+    height: 200px;
+
+}
+
+.box {
+    background-color: #ccc;
+    padding: 50px;
+    border: 20px solid black;
+    margin: 40px;
+    
+
+}
+
+footer{
+    text-align: center;
+    
+}
+
+.sidenav{
+    width: 30%;
+    background-color: yellow;
+    
+    float: left;
+    height: 100%;
+}
+
+.maincontent{
+    width: 70%;
+    background-color: green;
+    
+    float:left;
+    height: 100%;
+}
