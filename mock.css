@@ -1,0 +1,17 @@
+.nav{
+    width: 1000px;
+}
+
+.profile-img{
+    border-radius: 50px;
+
+}
+
+.profile-info{
+    display: inline-block;
+}
+
+.content{
+    margin: auto;
+    width: 600px;
+}
