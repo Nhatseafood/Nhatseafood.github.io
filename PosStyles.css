@@ -1,0 +1,27 @@
+.container{
+    position:absolute;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+
+    
+}
+
+.div1{
+    padding: 5px;
+    height: 500px;
+    width: 300px;
+    text-align: center;
+    line-height: 50px;
+   
+}
+
+.div2{
+    padding:5px;
+    height: 500px;
+    width: 500px;
+    text-align: center;
+    line-height: 50px;
+
+}
