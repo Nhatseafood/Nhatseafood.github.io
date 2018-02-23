@@ -1,0 +1,97 @@
+#triangle-up {
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid red;
+  }
+
+  #square {
+    width: 0;
+    height: 0;
+    border-left: 50px solid yellow;
+    border-right: 50px solid yellow;
+    border-bottom: 100px solid yellow;
+   
+  }
+
+  #rectangle{
+    width: 0;
+    height: 0;
+    border-left: 50px solid green;
+    border-right: 50px solid green;
+    border-bottom: 200px solid green;
+    margin: 10px;
+
+  }
+
+  #oval{
+    width: 0;
+    height: 0;
+    border-left: 50px solid purple;
+    border-right: 50px solid purple;
+    border-bottom: 200px solid purple;
+    margin: 10px;
+    border-radius: 50px;
+}
+
+#circle{
+    width: 0;
+    height: 0;
+    border-left: 50px solid blue;
+    border-right: 50px solid blue;
+    border-bottom: 100px solid blue;
+    margin: 10px;
+    border-radius: 50px;
+
+}
+
+#triangle-down{
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-top: 100px solid teal;
+}
+
+#triangle-left{
+    width: 0;
+    height: 0;
+    border-top: 50px solid transparent;
+    border-bottom: 50px solid transparent;
+    border-right: 100px solid orange;
+    
+}
+
+#right-triangle{
+    width: 0;
+    height: 0;
+    border-left: 100px solid transparent;
+    border-right: 0px solid aqua;
+    border-bottom: 100px solid aqua;
+    }
+
+#trapezoid{
+        width: 0;
+        height: 0;
+        border-left: 50px solid;
+        border-right: 100px solid transparent;
+        border-top: 100px solid yellow;
+        border-bottom: 100px solid transparent;
+       
+        
+       
+      }
+
+
+#pac{
+    width: 0;
+    height: 0;
+    border-left: 50px solid;
+    border-right: 50px solid;
+    border-bottom: 50px solid;
+    margin: 10px;
+    border-radius: 50px;
+    border-top: 50px solid transparent;
+
+}
