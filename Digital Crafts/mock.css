@@ -1,0 +1,23 @@
+.nav{
+    background-color: white;
+    width: 1000px;
+}
+
+.profile-img{
+    border-radius: 50px;
+
+}
+
+.profile-info{
+    display: inline-block;
+}
+
+.content{
+    background-color: white;
+    margin: auto;
+    width: 600px;
+}
+
+body{
+    background-color: black;
+}

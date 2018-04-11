@@ -1,0 +1,33 @@
+header{
+    height: 30px;
+}
+
+body{
+    height: 100%;
+    width: 100%;
+
+}
+
+.container{
+    display: flex;
+    height: 900px;
+}
+
+.c1{
+    margin: 10px;
+    width: 300px;
+    height: 700px;
+
+
+}
+
+.c2{
+    margin: 10px;
+    width: 80%;
+    height: 600px;
+
+}
+
+footer{
+    height: 30px;
+}

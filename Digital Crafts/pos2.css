@@ -1,0 +1,55 @@
+body{
+    height: 100%;
+}
+
+.container{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    align-items: 100%;
+    width: 100%;
+    justify-content: center;
+}
+
+.top{
+    padding: 5px;
+    height: 10px;
+    width: 100%;
+    text-align: center;
+    
+
+}
+
+.column1{
+    padding: 5px;
+    height: 900px;
+    width: 500px;
+    text-align: center;
+    line-height: 50px;
+
+}
+
+.column2{
+    padding: 5px;
+    height: 900px;
+    width: 500px;
+    text-align: center;
+    line-height: 50px;
+
+}
+
+.column3{
+    padding: 5px;
+    height: 900px;
+    width: 500px;
+    text-align: center;
+    line-height: 50px;
+
+}
+
+.bottom{
+    position: fixed;
+    height: 10%;
+    width: 100%;
+    bottom: 0;
+    }
